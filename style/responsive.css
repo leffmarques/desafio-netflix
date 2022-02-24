@@ -1,0 +1,30 @@
+@media screen and (max-width:700px){
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filme-principal .container {
+        width: 80%;
+    }    
+
+    .carousel .titulo {
+        margin: 40px 0 10px 20px;
+        font-size:25px;
+        text-shadow: 2px 2px 3px black;
+    }
+
+    .owl-carousel {
+        padding: 0 20px;
+    }
+}
+
+@media screen and (min-width:900px){
+    .descricao {
+        width: 50%;
+    }
+
+    .filme-principal {
+        height: 700px;
+    }
+}
