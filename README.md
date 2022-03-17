@@ -4,7 +4,7 @@ This is a Netflix interface clone, a project challenge by Digital Innovation One
 
 ## Visuals
 <p float="left">
-  <img src="https://github.com/leffmarques/netflix-clone/img/screenshot1.png" width="500" />
+  <img src="https://github.com/leffmarques/netflix-clone/blob/main/img/screenshot1.png" width="500" />
 </p>
 
 ## Execution
